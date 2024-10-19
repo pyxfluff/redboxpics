@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Hasklug Regular";
+    src: url("https://notpyx.me/fonts/HasklugNerdFont-Regular.woff2");
+}
+
+img {
+    max-width: 400px;
+    max-height: 250px;
+
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+body {
+    font-family: "Hasklug Regular";
+
+    background: black;
+    color: white;
+}
+
+a {
+    color: rgb(49, 49, 212) !important;
+
+    text-decoration: none;
+}
